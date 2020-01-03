@@ -1,2 +1,0 @@
-# hackatone
-test
